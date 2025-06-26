@@ -1,0 +1,13 @@
+
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+z
+java:S2259M"FA "NullPointerException" could be thrown; "getBody()" can return null.b e60a477c503443ef237cea3838592edfh
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+Z
+java:S14523"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+j
+java:S3984Y"6Throw this exception or remove this useless statement.b 8273c6652126ec7bdb2dcd6448be26a2h

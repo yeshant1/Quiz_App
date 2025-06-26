@@ -1,0 +1,11 @@
+
+v	java:S125""<This block of commented-out lines of code should be removed.8¯»çÄù2b 32995c9390e3cd4124ca32a485c5fe6eh
+o	java:S125"<This block of commented-out lines of code should be removed.b 3521f94f50a65f731125a844177031aeh
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+~
+java:S1128"CRemove this unused import 'io.swagger.v3.oas.annotations.tags.Tag'.8ŒûÖù2b 79d5a1f513f3ae471a49c42a1af0e85dh
+Z
+java:S14523"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+Z
+java:S1452&"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh

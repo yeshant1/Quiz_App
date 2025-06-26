@@ -1,0 +1,14 @@
+
+b
+java:S1128
+".Remove this unused import 'java.util.HashMap'.b d84992d255a05fff2c29a54090661da8h
+Z
+java:S1452"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+^
+java:S1128"*Remove this unused import 'java.util.Map'.b 03ec136776d19432e0a31b46ebe07d1ah
+o	java:S125"<This block of commented-out lines of code should be removed.b ccc9606ceee71ff4c597f4c9feb7c6efh
+o	java:S125"<This block of commented-out lines of code should be removed.b cdcc184aa03f185a736eb99990e1ce4ch
+j
+java:S1128	"6Remove this unused import 'java.net.ConnectException'.b 394c43499295331482826b510993a597h
+Z
+java:S1452"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh

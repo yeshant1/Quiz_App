@@ -1,0 +1,8 @@
+
+Z
+java:S1452"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+Z
+java:S1452#"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+v	java:S1250"<This block of commented-out lines of code should be removed.8î‘õ¿ù2b 8b81907d304db303b3237d65550f32f7h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h

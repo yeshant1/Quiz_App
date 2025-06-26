@@ -1,0 +1,5 @@
+
+Œ
+java:S6201"XReplace this instanceof check and cast with 'instanceof CustomException customException'b d564e95ce3f0071a51597cb273ff7c5fh
+u
+java:S3457"AFormat specifiers should be used instead of string concatenation.b dbd1a8f5ae0f0cdb93b4d22da0d6ab15h
